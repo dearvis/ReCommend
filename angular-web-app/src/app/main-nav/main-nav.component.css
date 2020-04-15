@@ -1,0 +1,33 @@
+
+.mat-toolbar.mat-primary
+ {
+  position: sticky;
+  height: 13%;
+  z-index: 1;
+  box-shadow: 0 2px 4px -1px rgba(0.25,0.25,0.25,0.25);
+}
+
+.spacer
+{
+	flex: 1 1 auto;
+}
+
+
+mat-toolbar a   
+{
+	display: inline-block;
+	margin: 0 10px;
+	color: #eec537;
+	text-decoration: none;
+}
+
+.logo
+{
+	width: 11%;
+}
+
+mat-toolbar a:hover
+{
+	color: #ffffff;
+}
+

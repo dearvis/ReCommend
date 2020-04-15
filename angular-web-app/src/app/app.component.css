@@ -1,0 +1,70 @@
+h1 
+{
+  font-size: 150%;
+}
+
+.block
+{
+	margin-top: 15%;
+	display: inline-block;
+	margin: 0 10px;
+	backgorund-color: pink;
+}
+
+.block .poster 
+{
+  position:absolute;
+    top:15%;
+    left:30%;
+    width: 70%;
+    box-shadow:10px 10px 8px #888888;
+}
+
+.block .tickets
+{
+  position:absolute;
+  bottom: 5%;
+    right:68%;
+    height: 97%;
+}
+
+.snap
+{
+	position:absolute;
+	width: 25%;
+	 left:15%;
+	top: 65%;
+}
+
+.crackle
+{
+	position:absolute;
+	width: 25%;
+	 left:12%;
+	top: 65%;
+}
+
+.pop
+{
+	position:absolute;
+	width: 25%;
+	 left:20%;
+	top: 70%;
+}
+
+
+
+.caption_1
+{
+	position:absolute;
+font-weight: normal;
+font-family: Bahnschrift ;
+font-size: 22px;
+color: grey;
+line-height: 1.5;
+
+font-style: italic;
+	left:40%;
+	top: 65%;
+}
+
